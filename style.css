@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 26px;
+width: 100%;
+margin: 0px;
+font-family:Georgia, Times, 'Times New Roman', serif;
+font-style: oblique;
+}
+
+#status
+{
+font-size: 23px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:darkorange;
+font-weight: 600;
+
+}
+
+canvas
+{
+    box-shadow: 15px 10px 10px lightgray;
+    border-radius: 10px;
+}
